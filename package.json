@@ -1,6 +1,6 @@
 {
   "name": "ui-react-native-icos",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a material icons ui ",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
